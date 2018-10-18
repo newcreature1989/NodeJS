@@ -1,0 +1,22 @@
+[
+    {
+        "name": "George",
+        "chirp": "Monkey"
+    },
+    {
+        "name": "Alvin",
+        "chirp": "Chipmonk"
+    },
+    {
+        "name": "Tom",
+        "chirp": "Cat"
+    },
+    {
+        "name": "Wily",
+        "chirp": "Coyte"
+    },
+    {
+        "name": "Bugs",
+        "chirp": "Bunny"
+    }
+]
